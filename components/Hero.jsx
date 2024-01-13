@@ -8,7 +8,7 @@ const Hero = () => {
     <div className=' overflow-hidden '>
       <div className='  h-auto  '>
       <Image src={'/hero5.png'} alt='classroom' 
-        width={1500} height={500}
+        width={1500} height={1500}
         className=' object-cover'
       />
       </div>
