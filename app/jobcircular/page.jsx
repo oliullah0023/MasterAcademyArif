@@ -1,4 +1,5 @@
 import JoinUsLink from '@/components/JoinUsLink'
+import { govtJobCircular } from '@/constants'
 import React from 'react'
 
 const JobcircularPage = () => {
