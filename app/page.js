@@ -13,7 +13,9 @@ export default function Home() {
     <Courses />
     <VideoLong />
     <Video />
+    <div className=''>
     <Testimonials />
+    </div>
     <Blog />
    </div>
   )

@@ -1,3 +1,4 @@
+import EnrollButton from '@/components/EnrollButton'
 import JoinUsLink from '@/components/JoinUsLink'
 import {  blogDetilsPage } from '@/constants'
 import Image from 'next/image'
@@ -68,6 +69,9 @@ On behalf of Arif vaia. <br />
 </div>
 </div>
 </div>
+<div className=''>
+    <EnrollButton />
+    </div>
  <JoinUsLink />
   </div>
   )

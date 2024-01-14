@@ -1,3 +1,4 @@
+import EnrollButton from '@/components/EnrollButton'
 import JoinUsLink from '@/components/JoinUsLink'
 import {  blogDetilsPage } from '@/constants'
 import Image from 'next/image'
@@ -122,6 +123,9 @@ Finally, thanks to this group and the group members… I learned everything abou
 </div>
 </div>
   </div>
+  <div className=' '>
+    <EnrollButton />
+    </div>
 <JoinUsLink />
   </div>
   )

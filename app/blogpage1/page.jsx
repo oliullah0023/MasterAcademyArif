@@ -2,6 +2,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 import { blogDetilsPage } from '@/constants';
 import JoinUsLink from '@/components/JoinUsLink';
+import EnrollButton from '@/components/EnrollButton';
 
 const Blogpage1 = () => {
   return (
@@ -91,6 +92,10 @@ University of Dhaka
   </div>
 </div>
 </div>
+
+<div className=''>
+    <EnrollButton />
+    </div>
 <JoinUsLink />
     </div>
   )

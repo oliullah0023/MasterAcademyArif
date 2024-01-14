@@ -1,3 +1,4 @@
+import EnrollButton from '@/components/EnrollButton'
 import JoinUsLink from '@/components/JoinUsLink'
 import { blogDetilsPage } from '@/constants'
 import Image from 'next/image'
@@ -81,6 +82,9 @@ complete dressed up at 8.40 A. M. I took a rickshaw from my campus to PSC. At th
 </div>
 </div>
 </div>
+<div className=''>
+    <EnrollButton />
+    </div>
  <JoinUsLink />
   </div>
   )

@@ -5,7 +5,7 @@ import React from 'react'
 const PrivateJob = () => {
   return (
     <div className=' p-6 md:px-20 lg:px-40'>
-    <h1 className=' text-center text-red-900 text-3xl font-bold '>Recent Govt. Job Circular</h1>
+    <h1 className=' text-center text-red-900 text-3xl font-bold '>Recent Private Job Circular</h1>
 
    <div className='  ml-10 py-6 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3  place-items-center gap-10  '>
   

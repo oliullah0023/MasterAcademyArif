@@ -12,7 +12,7 @@ const JobcircularPage = () => {
     {
       govtJobCircular.map((item) => (
         <div key={item.id}
-         className=' border border-green-400 p-3 shadow-md hover:shadow-2xl shadow-slate-500 rounded-sm  group min-w-[350px] max-w-[350] '
+         className=' border border-green-400 p-3 shadow-md hover:shadow-2xl shadow-slate-500 rounded-sm  group min-w-[300px] max-w-[300] '
         >
           <h1 className=' text-xl font-bold'>{item.title}</h1>
           <p className=' mt-3 '>{item.post}</p>

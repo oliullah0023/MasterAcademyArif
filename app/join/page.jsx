@@ -1,3 +1,4 @@
+import EnrollButton from '@/components/EnrollButton'
 import JoinUsLink from '@/components/JoinUsLink'
 import Image from 'next/image'
 import React from 'react'
@@ -8,6 +9,7 @@ const JoinPage = () => {
       <div className=' '>
         <div><JoinUsLink />
         </div>
+        <EnrollButton />
       <div>
         <Image src='/contact.png' alt='' width={600} height={500} />
       </div>

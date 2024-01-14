@@ -2,6 +2,8 @@ import Image from 'next/image'
 import React from 'react'
 import {HiLocationMarker} from 'react-icons/hi'
 import {BsFillTelephoneFill} from 'react-icons/bs'
+import JoinUsLink from '@/components/JoinUsLink'
+import EnrollButton from '@/components/EnrollButton'
 
 const ContactPge = () => {
   return (
@@ -21,21 +23,18 @@ const ContactPge = () => {
         <p>01790724256</p>
         </div>
       </div>
-      <div className='border border-gray-400 p-4 group hover:shadow-2xl'>
-        <p className=' font-semibold'>#ফ্রি লেকচার এবং JOB/ admission update <br />পেতে নিচের লিংকে ক্লিক করে জয়েন করুনঃ<br />
-        
-       </p>
-       <p><a href="https://www.facebook.com/groups/arifsmbaadmission"
-         className=' group-hover:underline hover:text-green-600'
-        >https://www.facebook.com/groups/arifsmbaadmission</a></p> <br /> 
-
-        <p><a href="https://www.youtube.com/@MASTERACADEMY_arif"
-         className=' group-hover:underline hover:text-green-600'
-        >https://www.youtube.com/@MASTERACADEMY_arif</a></p>
-      </div>
+     
       <div>
         <Image src='/contact.png' alt='' width={600} height={500} />
       </div>
+
+      <div>
+        <EnrollButton />
+      </div>
+
+      <div>
+      <JoinUsLink />
+     </div>
     </div>
   )
 }

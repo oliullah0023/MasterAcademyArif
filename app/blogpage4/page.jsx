@@ -1,3 +1,4 @@
+import EnrollButton from '@/components/EnrollButton'
 import JoinUsLink from '@/components/JoinUsLink'
 import {  blogDetilsPage } from '@/constants'
 import Image from 'next/image'
@@ -248,7 +249,12 @@ Me: Assalamualaikum, Sir. (looking at the Ma&apos;am) Madam. (She acknowledged) 
       }
       </div>
      </div>
+    
     </div>
+    <div className=' p-6  md:px-20 lg:px-40'>
+    <EnrollButton />
+    </div>
+   
     <JoinUsLink />
   </div>
 

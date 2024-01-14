@@ -156,22 +156,22 @@ export const blogDetils = [
  
   {
    id:2,  title:'IBA এর A to Z  প্রশ্ন ও উত্তর ', name:'By Master Academy',
-   desc:'সময়টা ব্র‍্যান্ডিং এর। আপনার যোগ্যতায় আইবিএ এর সার্টিফিকেট থাকা মানে ক্যারিয়ার ফিল্ডে মুহুর্তেই আপনি অন্যদের চেয়ে আলাদা হয়ে যাবেন। এগিয়ে যাবেন বহুদুর। বিভিন্ন সময়ে বিভিন্ন নিয়োগকর্তাদের নিয়ে কর্পোরেট প্রোগ্রামের  ..... ', url:"/blogpage1"
+   desc:'সময়টা ব্র‍্যান্ডিং এর। আপনার যোগ্যতায় আইবিএ এর সার্টিফিকেট থাকা মানে ক্যারিয়ার ফিল্ডে মুহুর্তেই আপনি অন্যদের চেয়ে আলাদা হয়ে যাবেন। এগিয়ে যাবেন বহুদুর। বিভিন্ন সময়ে বিভিন্ন নিয়োগকর্তাদের নিয়ে কর্পোরেট প্রোগ্রামের  ..... ', url:"/blogpage2"
   },
  
   {
    id:3,  title:'IBA MBA Preparation (6 months intensive plan)', name:'By Master Academy',
-   desc:'প্রথমেই মাইন্ড সেট চেঞ্জ করে নিন। ১০ বার এক্সাম দিয়েও চান্স না পাওয়া ছোট ভাই আমি দেখেছি। আবার ইংরেজিতে এসএসসি তে ডি গ্রেড পাওয়া ছেলেকে একবার এক্সাম দিয়ে চান্স পেতেও দেখেছি। কারণ এটা আইবিএ। যে মাইন্ড ...... ', url:'/blogpage1'
+   desc:'প্রথমেই মাইন্ড সেট চেঞ্জ করে নিন। ১০ বার এক্সাম দিয়েও চান্স না পাওয়া ছোট ভাই আমি দেখেছি। আবার ইংরেজিতে এসএসসি তে ডি গ্রেড পাওয়া ছেলেকে একবার এক্সাম দিয়ে চান্স পেতেও দেখেছি। কারণ এটা আইবিএ। যে মাইন্ড ...... ', url:'/blogpage3'
   },
  
   {
    id:4,  title:'কীভাবে আইবিএ-তে চান্স পেতে পারেন: ভর্তিযুদ্ধের প্রস্তুতি ', name:'By Master Academy',
-   desc:'আইবিএ-তে ভর্তি হতে পারা অনেকটা স্বপ্নের মতো অনেকের কাছেই, কিন্তু কীভাবে সে স্বপ্নকে হাতের নাগালে পেতে পারেন আপনি? এ ব্যাপারে কোনোই সন্দেহ নেই যে, আইবিএ-র বিবিএ ........', url:"/blogpage1"
+   desc:'আইবিএ-তে ভর্তি হতে পারা অনেকটা স্বপ্নের মতো অনেকের কাছেই, কিন্তু কীভাবে সে স্বপ্নকে হাতের নাগালে পেতে পারেন আপনি? এ ব্যাপারে কোনোই সন্দেহ নেই যে, আইবিএ-র বিবিএ ........', url:"/blogpage4"
   },
  
   {
    id:5,  title:'বার বার হেরে যাবার গল্প', name:'By Master Academy',
-   desc:'দু-হাজার তিন সালে সায়েন্স গ্রুপ থেকে আমি এইচ এস সি পাস করি, 3.60 আউট অফ 5 এর ভয়াবহ সিজিপিএ নিয়ে। ঝিনাইদহ ক্যাডেট কলেজের ছাত্র ছিলাম, আন্ত: ক্যাডেট কলেজ প্রতিযোগিতাগুলোর কারণে প্রায় সবাই  ........', url:"/blogpage1"
+   desc:'দু-হাজার তিন সালে সায়েন্স গ্রুপ থেকে আমি এইচ এস সি পাস করি, 3.60 আউট অফ 5 এর ভয়াবহ সিজিপিএ নিয়ে। ঝিনাইদহ ক্যাডেট কলেজের ছাত্র ছিলাম, আন্ত: ক্যাডেট কলেজ প্রতিযোগিতাগুলোর কারণে প্রায় সবাই  ........', url:"/blogpage5"
   },
   ]
 
@@ -181,23 +181,23 @@ export const govtJobCircular = [
   },
 
   {
-    id:2, title:'সমন্বিত ৯ ব্যাংক/আর্থিক প্রতিষ্ঠানঃ', post:'পদসংখ্যাঃ 974 টি।',deadline:'আবেদনের সময়সীমাঃ ২২-০১-২০২৪ ইং ', applyLink:'https://erecruitment.bb.org.bd/onlineapp/joblist.php',postName:'পদের নাম:Senior Officer (General)', apply:'Apply Link:'
+    id:2, title:'সমন্বিত ৯ ব্যাংক/আর্থিক প্রতিষ্ঠানঃ', post:'পদসংখ্যাঃ 974 টি।',deadline:'আবেদনের সময়সীমাঃ ২২-০১-২০২৪ ইং ', applyLink:'https://erecruitment.bb.org.bd/',postName:'পদের নাম:Senior Officer (General)', apply:'Apply Link:'
   },
 
   {
-    id:3, title:'সমন্বিত ৯ ব্যাংক/আর্থিক প্রতিষ্ঠানঃ', post:'পদসংখ্যাঃ ১,৫৯৭ টি।',deadline:'আবেদনের সময়সীমাঃ ২০-০১-২০২৪ ইং ', applyLink:'https://erecruitment.bb.org.bd/onlineapp/joblist.php', postName:'পদের নাম:Officer (General)', apply:'Apply Link:'
+    id:3, title:'সমন্বিত ৯ ব্যাংক/আর্থিক প্রতিষ্ঠানঃ', post:'পদসংখ্যাঃ ১,৫৯৭ টি।',deadline:'আবেদনের সময়সীমাঃ ২০-০১-২০২৪ ইং ', applyLink:'https://erecruitment.bb.org.bd/', postName:'পদের নাম:Officer (General)', apply:'Apply Link:'
   },
 
   {
-    id:4, title:'সমন্বিত ৫ ব্যাংকঃ', post:'পদসংখ্যাঃ ৭৮৭ টি।',deadline:'আবেদনের সময়সীমাঃ ২০-০১-২০২৪ ইং ', applyLink:'https://erecruitment.bb.org.bd/onlineapp/joblist.php', postName:'পদের নাম:Officer (Cash)/Officer', apply:'Apply Link:'
+    id:4, title:'সমন্বিত ৫ ব্যাংকঃ', post:'পদসংখ্যাঃ ৭৮৭ টি।',deadline:'আবেদনের সময়সীমাঃ ২০-০১-২০২৪ ইং ', applyLink:'https://erecruitment.bb.org.bd/', postName:'পদের নাম:Officer (Cash)/Officer', apply:'Apply Link:'
   },
 
   {
-    id:5, title:'বাংলাদেশ ব্যাংকঃ', post:'পদসংখ্যাঃ  ১২ টি।',deadline:'আবেদনের সময়সীমাঃ ৩১-১২-২০২৩ ইং ', applyLink:'https://erecruitment.bb.org.bd/onlineapp/joblist.php', postName:'পদের নাম:Assistant Director (Ex. Cader Law)', apply:'Apply Link:'
+    id:5, title:'বাংলাদেশ ব্যাংকঃ', post:'পদসংখ্যাঃ  ১২ টি।',deadline:'আবেদনের সময়সীমাঃ ৩১-১২-২০২৩ ইং ', applyLink:'https://erecruitment.bb.org.bd', postName:'পদের নাম:Assistant Director (Ex. Cader Law)', apply:'Apply Link:'
   },
 
   {
-    id:6, title:'বাংলাদেশ ব্যাংকঃ', post:'পদসংখ্যাঃ  ৪৮ টি।',deadline:'আবেদনের সময়সীমাঃ ১৩-০১-২০২৪ ইং ', applyLink:'https://erecruitment.bb.org.bd/onlineapp/joblist.php', postName:'পদের নাম:Assistant Director (ICT)', apply:'Apply Link:'
+    id:6, title:'বাংলাদেশ ব্যাংকঃ', post:'পদসংখ্যাঃ  ৪৮ টি।',deadline:'আবেদনের সময়সীমাঃ ১৩-০১-২০২৪ ইং ', applyLink:'https://erecruitment.bb.org.bd', postName:'পদের নাম:Assistant Director (ICT)', apply:'Apply Link:'
   },
 
   {
@@ -220,23 +220,23 @@ export const privateJobCircular = [
   },
 
   {
-    id:2, title:'সমন্বিত ৯ ব্যাংক/আর্থিক প্রতিষ্ঠানঃ', post:'পদসংখ্যাঃ 974 টি।',deadline:'আবেদনের সময়সীমাঃ ২২-০১-২০২৪ ইং ', applyLink:'https://erecruitment.bb.org.bd/onlineapp/joblist.php',postName:'পদের নাম:Senior Officer (General)', apply:'Apply Link:'
+    id:2, title:'সমন্বিত ৯ ব্যাংক/আর্থিক প্রতিষ্ঠানঃ', post:'পদসংখ্যাঃ 974 টি।',deadline:'আবেদনের সময়সীমাঃ ২২-০১-২০২৪ ইং ', applyLink:'https://erecruitment.bb.org.bd/',postName:'পদের নাম:Senior Officer (General)', apply:'Apply Link:'
   },
 
   {
-    id:3, title:'সমন্বিত ৯ ব্যাংক/আর্থিক প্রতিষ্ঠানঃ', post:'পদসংখ্যাঃ ১,৫৯৭ টি।',deadline:'আবেদনের সময়সীমাঃ ২০-০১-২০২৪ ইং ', applyLink:'https://erecruitment.bb.org.bd/onlineapp/joblist.php', postName:'পদের নাম:Officer (General)', apply:'Apply Link:'
+    id:3, title:'সমন্বিত ৯ ব্যাংক/আর্থিক প্রতিষ্ঠানঃ', post:'পদসংখ্যাঃ ১,৫৯৭ টি।',deadline:'আবেদনের সময়সীমাঃ ২০-০১-২০২৪ ইং ', applyLink:'https://erecruitment.bb.org.bd/', postName:'পদের নাম:Officer (General)', apply:'Apply Link:'
   },
 
   {
-    id:4, title:'সমন্বিত ৫ ব্যাংকঃ', post:'পদসংখ্যাঃ ৭৮৭ টি।',deadline:'আবেদনের সময়সীমাঃ ২০-০১-২০২৪ ইং ', applyLink:'https://erecruitment.bb.org.bd/onlineapp/joblist.php', postName:'পদের নাম:Officer (Cash)/Officer', apply:'Apply Link:'
+    id:4, title:'সমন্বিত ৫ ব্যাংকঃ', post:'পদসংখ্যাঃ ৭৮৭ টি।',deadline:'আবেদনের সময়সীমাঃ ২০-০১-২০২৪ ইং ', applyLink:'https://erecruitment.bb.org.bd/', postName:'পদের নাম:Officer (Cash)/Officer', apply:'Apply Link:'
   },
 
   {
-    id:5, title:'বাংলাদেশ ব্যাংকঃ', post:'পদসংখ্যাঃ  ১২ টি।',deadline:'আবেদনের সময়সীমাঃ ৩১-১২-২০২৩ ইং ', applyLink:'https://erecruitment.bb.org.bd/onlineapp/joblist.php', postName:'পদের নাম:Assistant Director (Ex. Cader Law)', apply:'Apply Link:'
+    id:5, title:'বাংলাদেশ ব্যাংকঃ', post:'পদসংখ্যাঃ  ১২ টি।',deadline:'আবেদনের সময়সীমাঃ ৩১-১২-২০২৩ ইং ', applyLink:'https://erecruitment.bb.org.bd', postName:'পদের নাম:Assistant Director (Ex. Cader Law)', apply:'Apply Link:'
   },
 
   {
-    id:6, title:'বাংলাদেশ ব্যাংকঃ', post:'পদসংখ্যাঃ  ৪৮ টি।',deadline:'আবেদনের সময়সীমাঃ ১৩-০১-২০২৪ ইং ', applyLink:'https://erecruitment.bb.org.bd/onlineapp/joblist.php', postName:'পদের নাম:Assistant Director (ICT)', apply:'Apply Link:'
+    id:6, title:'বাংলাদেশ ব্যাংকঃ', post:'পদসংখ্যাঃ  ৪৮ টি।',deadline:'আবেদনের সময়সীমাঃ ১৩-০১-২০২৪ ইং ', applyLink:'https://erecruitment.bb.org.bd', postName:'পদের নাম:Assistant Director (ICT)', apply:'Apply Link:'
   },
 
   {

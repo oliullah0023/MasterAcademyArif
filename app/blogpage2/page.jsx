@@ -1,3 +1,4 @@
+import EnrollButton from '@/components/EnrollButton'
 import JoinUsLink from '@/components/JoinUsLink'
 import {  blogDetilsPage } from '@/constants'
 import Image from 'next/image'
@@ -209,6 +210,9 @@ const BlogPage2 = () => {
 </div>
 </div>
 </div>
+<div className=''>
+    <EnrollButton />
+    </div>
 <JoinUsLink />
   </div>
   )

@@ -1,19 +1,21 @@
+import EnrollButton from '@/components/EnrollButton'
 import JoinUsLink from '@/components/JoinUsLink'
 import Testimonials from '@/components/Testimonials'
 import Video from '@/components/Video'
 import VideoLong from '@/components/VideoLong'
-import { ourSuccess, ourSuccessBibm, ourSuccessEmba, ourSuccessIba } from '@/constants'
+import {  ourSuccessBibm, ourSuccessEmba, ourSuccessIba } from '@/constants'
 import Image from 'next/image'
 import React from 'react'
 
 const Oursuccess = () => {
   return (
-    <div className=' p-6 md:p-20 lg:p-40'>
+    <div className=' p-6 '>
       <div>
         <VideoLong />
         <Video />
         <Testimonials />
       </div>
+      <div className=' md:px-20 lg:px-40'>
       <h1 className=' text-center py-5 text-xl md:text-2xl lg:text-3xl font-bold  bg-yellow-600 my-5  max-w-[550]'>Our IBA MBA success Stories </h1>
       <div className=' grid grid-cols-1 md:grid-cols-2 gap-5 justify-center place-items-center '>
         {
@@ -46,7 +48,11 @@ const Oursuccess = () => {
           ) )
         }
       </div>
+      <div className=''>
+    <EnrollButton />
+    </div>
    <JoinUsLink />
+   </div>
     </div>
   )
 }

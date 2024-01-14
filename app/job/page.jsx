@@ -1,4 +1,5 @@
 'use client'
+import EnrollButton from '@/components/EnrollButton';
 import JoinUsLink from '@/components/JoinUsLink';
 import { FacebookEmbed } from 'react-social-media-embed';
 
@@ -10,6 +11,11 @@ const JobCircular = () => {
      className=' '
     >
   <FacebookEmbed url="https://fb.watch/piKF0wTJ9T/?mibextid=6aamW6" width={550} />
+</div>
+
+
+<div>
+  <EnrollButton />
 </div>
 
 <JoinUsLink /> 

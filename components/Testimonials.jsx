@@ -52,7 +52,7 @@ const Testimonials = () => {
       <h1 className=' uppercase font-bold text-2xl text-center md:text-3xl text-red-900 mb-5'>Testimonials</h1>
 
        
-    <div className=' ml-10  '>
+    <div className='  '>
     <Slider {...settings}>
       {
         detailsTestimonials.map((item) =>(

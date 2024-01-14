@@ -12,12 +12,12 @@ const Hero = () => {
         className=' object-cover'
       />
       </div>
-      <div className=' w-full bg-cover md:h-[130px] h-[120px]'
-       style={{backgroundImage:`url(hero3.jpg)`}}
+      <div className=' w-full bg-cover bg-red-800 md:h-[120px] h-[110px] '
+      //  style={{backgroundImage:`url(hero3.jpg)`}}
       >
-        <div className=' mx-10 ml-40
+        <div className=' mx-10 ml-30
          md:mx-24 flex flex-col md:ml-80 md:flex-row justify-center items-center gap-2'>
-         <div className=' mt-4 '>
+         <div className=' mt-2 '>
           <h1 className=' md:border-none text-white border border-white text-xl md:text-3xl  '>Education</h1>
           <p className=' hidden md:flex text-base text-white mt-2'>Unlocking door to success: Master Academy works untill you succeed</p>
           <div className=' hidden  md:flex py-1 group '>
