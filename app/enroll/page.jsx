@@ -9,6 +9,8 @@ const EnrollPage = () => {
    const [courseName, setCourseName] = useState('')
    const [email, setEmil] = useState('')
    const [mobile, setMobile] = useState('')
+
+   //Copied from JS Solution Youtube Channel
  
    // retrieve data state
   //  const [data, setData] = useState('null')
@@ -27,7 +29,7 @@ const EnrollPage = () => {
        Email:email, 
        CourseName:courseName
      }
-     axios.post('https://sheet.best/api/sheets/13103159-7f64-4b4e-ac2d-a33bddf1d1f1', data).then(response => {
+     axios.post('https://sheet.best/api/sheets/bc925f84-97f0-4ac4-bbc7-dd0f13e89a95', data).then(response => {
        console.log(response)
        setName('')
        setUniversity('')
