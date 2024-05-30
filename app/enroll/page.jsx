@@ -71,7 +71,7 @@ const EnrollPage = () => {
              />
              <br />
              <label htmlFor="">Enter Your Course Name:</label> <br />
-             <input type="text" required placeholder='Iba Mba, BIBM, English,Job' 
+             <input type="text" required placeholder='Iba Mba, BIBM, English,EMBA' 
              className=' border m-2'
               onChange={(e)=> setCourseName(e.target.value)}
               value={courseName}

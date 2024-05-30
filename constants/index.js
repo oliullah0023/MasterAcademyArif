@@ -49,19 +49,19 @@ export const navLinks = [
 
 export const courses = [
   {
-    id:1, title:'iba mba & emba', desc:'Building Foundations, Fostering Success - We start with the basic!'
+    id:1, title:'iba mba & emba', desc:'Building Foundations, Fostering Success - We start with the basic!', url:'/iba'
   },
 
   {
-    id:2, title:'bibm (mbm)', desc:'Step into success: BIBM Admission Test Mastery Begins with Us!'
+    id:2, title:'bibm (mbm)', desc:'Step into success: BIBM Admission Test Mastery Begins with Us!', url:'/bibm'
   },
 
   {
-    id:3, title:'job preparation', desc:'Build Your Career on a Solid Ground - Our Job Preparation Begins with Basics!'
+    id:3, title:'job preparation', desc:'Build Your Career on a Solid Ground - Our Job Preparation Begins with Basics!', url:'/job'
   },
 
   {
-    id:4, title:'English (Speaking & writing)', desc:'Speak & Write with Confidence: Master English, Master Your World!'
+    id:4, title:'English (Speaking & writing)', desc:'Speak & Write with Confidence: Master English, Master Your World!', url:'/english'
   },
 ]
 

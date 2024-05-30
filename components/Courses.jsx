@@ -17,7 +17,7 @@ const Courses = () => {
             >
                  <h1 className=' font-bold uppercase text-2xl text-green-600 '>{course.title}</h1>
           <p  className=' text-base text-gray-600'>{course.desc}</p>
-          <Link href={'/iba'}>
+          <Link href={course.url}>
           <button className=' uppercase bg-red-400 hover:bg-amber-500 rounded-full p-2 w-[150px] '>Learn more</button>
           </Link>
             </div>

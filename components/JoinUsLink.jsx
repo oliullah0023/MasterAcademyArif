@@ -12,7 +12,7 @@ const JoinUsLink = () => {
         >www.facebook.com/arifsmbaadmission</a></p>
         <p className=' my-5 text-red-500 hover:text-green-300'>Call Us:<a href="+8801790724256">+8801790724256</a></p>
         <p className=' '><span className=' font-bold'> Our Youtube Channel:</span><br /><a href="https://www.youtube.com/@MASTERACADEMY_arif"
-         className=' group-hover:underline hover:text-green-600'
+         className=' group-hover:underline hover:text-green-600' target='_blank'
         >www.youtube.com/@MASTERACADEMY</a></p>
 
       </div>
