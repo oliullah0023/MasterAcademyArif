@@ -13,7 +13,7 @@ const Navbar = () => {
     <div className=' h-20  bg-red-800  w-full bg-cover   border-b-[1px] border-b-red-800 '
     style={{backgroundImage:`url(nav1.jpg)`}}
     >
-      <div className=' p-6 md:px-20 lg:px-40 flex justify-between gap-5'>
+      <div className=' p-6 md:px-20 lg:px-40 flex justify-between gap-8'>
         <Link href={'/'}>
         <Image src={'/logo1.png'} alt='' width={120} height={120} />
         </Link>

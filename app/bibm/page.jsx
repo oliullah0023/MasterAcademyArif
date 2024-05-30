@@ -7,7 +7,7 @@ const Bibm = () => {
   return (
     <div className=' p-6 md:px-20 lg:px-40 top-7'>
      <div 
-      className=' grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 place-items-center '
+      className=' grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6  '
       >
       <FacebookEmbed url="https://fb.watch/pkYvCA0ORU/?mibextid=Nif5oz" width={400} />
 
