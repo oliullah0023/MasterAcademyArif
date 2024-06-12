@@ -25,7 +25,9 @@ const Manu = () => {
             <div className=' flex flex-col  justify-center mt-10 '>
             <Link href={'/'}
             className=' px-5  my-5'>
-           <h5 className=' hover:text-red-600 hover:font-semibold uppercase text-white'>Home</h5>
+           <h5 className=' hover:text-red-600 hover:font-semibold uppercase text-white'
+           onClick={() => setOpen(!open)}
+           >Home</h5>
           </Link>
            {
             navLinks.map((link) =>(

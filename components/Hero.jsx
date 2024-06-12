@@ -35,14 +35,14 @@ const Hero = () => {
          <div className=' '>
           <h1 className=' md:border-none text-white text-xl border  border-white md:text-3xl'>Free class or Counselling class</h1>
           <p className=' text-white text-base hidden md:flex mt-2'>Take free class to evaluate </p>
-          <div className=' hidden  md:flex py-1  group'>
+          <div className='   md:flex py-1  group'>
             <Link href={'enroll'}
              className=' flex gap-2'
             >
             <Image src={'/arrowr1.png'} alt='' width={20} height={20}
              className=' bg-white p-[2px] rounded-full font-bold'
             />
-            <p className=' text-white uppercase group-hover:text-green-400 '>Admission Online</p>
+            <p className=' text-white text-xs md:text-base uppercase group-hover:text-green-400 '>Admission Online</p>
             </Link>
           </div>
          </div>
